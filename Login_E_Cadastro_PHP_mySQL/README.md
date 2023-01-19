@@ -1,4 +1,4 @@
-# Sistema de login e cadastro 🖥
+# Sistema de cadastro 🖥
 Sistema de login e cadastro com mySQL+xampp:
 <br>
 Com tela de login
@@ -6,11 +6,11 @@ Edição de Registros
 Deleção de Registros
 Pesquisa
 <ul>
-  <li>01 - Baixe e instale o mySQL e o Xampp </li>
+  <li>01 - baixe e instale o mySQL e o Xampp </li>
   <p>https://www.mysql.com/downloads/ <br> https://www.apachefriends.org/pt_br/download.html</p>
-  <li>02 - Entre no Xampp</li>
-  <li>03 - Ter Start no Apache e no MySQL </li>
-  <li>04 - Entre no MySQL ou pesquisar http://localhost/phpmyadmin/ no navegador</li>
+  <li>02 - entre no Xampp</li>
+  <li>03- ter Start no Apache e no MySQL </li>
+  <li>04- entre no MySQL ou pesquisar http://localhost/phpmyadmin/ no navegador</li>
   <li>05 - Crie uma tabela com o nome de usuarios<li>
   <li>06 - Crie 10 Colunas com os seguinte nomes</li>
   <p> id - nome - senha email - telefone - sexo - data_nasc - cidade - entado - endereco</p>
