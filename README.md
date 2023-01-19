@@ -12,7 +12,7 @@ Pesquisa.
   <li>02 - Entre no Xampp</li>
   <li>03 - Ter Start no Apache e no MySQL </li>
   <li>04 - Entre no MySQL ou pesquisar http://localhost/phpmyadmin/ no navegador</li>
-  <li>05 - Crie uma tabela com o nome de usuarios<li>
+  <li>05 - Crie uma tabela com o nome de usuarios </li>
   <li>06 - Crie 10 Colunas com os seguinte nomes</li>
   <p>id - nome - senha email - telefone - sexo - data_nasc - cidade - entado - endereco</p>
   <li>07 - Agora e so entra no seu navegador e buscar http://localhost/ e buscar o  projeto [Login_E_Cadastro_PHP_mySQL] </li>
